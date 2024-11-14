@@ -1,0 +1,2 @@
+- 🦄 Hi, I’m @horakia
+- I'm building AKIA using Rescript and Elixir
