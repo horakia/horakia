@@ -1,3 +1,4 @@
 - 🦄 Hi, I’m @horakia
 - I'm building AKIA using Rescript and Elixir
 - [Ex-META](https://github.com/hdragomir)
+- [hdragomir.com](https://hdragomir.com)
